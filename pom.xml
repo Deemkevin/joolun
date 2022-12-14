@@ -46,7 +46,7 @@
 		<swagger.core.version>1.5.22</swagger.core.version>
 		<spring-boot-starter-websocket.version>2.1.5.RELEASE</spring-boot-starter-websocket.version>
 		<oh-my-email.version>0.0.4</oh-my-email.version>
-		<snakeyaml.version>1.24</snakeyaml.version>
+		<snakeyaml.version>1.32</snakeyaml.version>
 		<aliyun-sdk-oss.version>3.5.0</aliyun-sdk-oss.version>
 		<qiniu-java-sdk.version>[7.2.0, 7.2.99]</qiniu-java-sdk.version>
 		<qcloud-cos.version>5.6.9</qcloud-cos.version>
